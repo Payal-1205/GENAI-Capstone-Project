@@ -47,8 +47,5 @@ Running the Application
 Start Backend
 uvicorn backend.app:app --reload
 
-Backend URL:
-
-http://127.0.0.1:8000
 Start Frontend
 streamlit run frontend/app.py
